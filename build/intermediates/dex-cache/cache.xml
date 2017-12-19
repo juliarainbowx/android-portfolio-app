@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2fecba71ff6c0e1ff119fc1260b4012b4fb9e7e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_402370a3422f18f8028cf42e44b841a3b991d851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c939825e1fadc5607fad6145f0e8269a09aacd6b">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dcefdc547682ba73fd589f6f033727d00f1c85b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/11240f16a610117e76d20b8a19381f8784d4cf93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b50757e4baafd681f51a3aa4db3e0eadb042bc22/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/72fff9bf2bc108475dec1eac4d1608b2885fd798/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_b6fa36a85cc27fb5c5551a95f3568aa2b215577a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2fecba71ff6c0e1ff119fc1260b4012b4fb9e7e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_402370a3422f18f8028cf42e44b841a3b991d851.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/72fff9bf2bc108475dec1eac4d1608b2885fd798/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6fa36a85cc27fb5c5551a95f3568aa2b215577a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/11240f16a610117e76d20b8a19381f8784d4cf93/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_b50757e4baafd681f51a3aa4db3e0eadb042bc22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/908de1b1ad67082581543828c3509158da4bfbce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_2987cc324cb0abed0d579040091447fc517b6b38.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/81ab34ec53cbc37afd75daeeab671ffec1bd8ce6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0aec3ad4cdfc424caef56a3d6ff42607aaf20e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/908de1b1ad67082581543828c3509158da4bfbce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2987cc324cb0abed0d579040091447fc517b6b38/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/81ab34ec53cbc37afd75daeeab671ffec1bd8ce6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_d0aec3ad4cdfc424caef56a3d6ff42607aaf20e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8b24bab2af5fcf232ba45fe105b6eec5b40c5954/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d80ec86a40830a5ee2d0b754b2b4d04ded4d83b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/8b24bab2af5fcf232ba45fe105b6eec5b40c5954/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_d80ec86a40830a5ee2d0b754b2b4d04ded4d83b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/d0e4871f6351174c37cf2932bfb9c43b14bb0939/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="609256b41e546f84a1d53254576fa0722f97f848">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c8d8f7af09dd77c672b8439111ab0b1217e131b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/73339ab130eea929d142f4f193541ca973c984f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_407b7db54155962c761cc110f2b8e825d1017e1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d0e4871f6351174c37cf2932bfb9c43b14bb0939/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="609256b41e546f84a1d53254576fa0722f97f848">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_6c8d8f7af09dd77c672b8439111ab0b1217e131b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_acaaabd111fb39ccce6bdadc5542d5003dd7533d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_acaaabd111fb39ccce6bdadc5542d5003dd7533d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c1f29dc1a47767db86de396db0187ea934df5e1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/73339ab130eea929d142f4f193541ca973c984f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_407b7db54155962c761cc110f2b8e825d1017e1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/4f9f225048ce90a7e11befd02b9ec0392a693733/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_3583f475d1b1d0380f6b7d1a86887724223ba285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/cbb7e175ef4e0bda138674357ce47a1d5d78a03c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_9c8a563cae7fb85faba11e928279948434c12133.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/cbb7e175ef4e0bda138674357ce47a1d5d78a03c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c8a563cae7fb85faba11e928279948434c12133/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2aa929c737b9c3d4e403c588bfad2603813b5be3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_2d78b830f99982c074106d1b446d90e65b864fa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/cbf5150915bf62689c8ddb3ca6474ac8ccccf17e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_faf54d0fb8b6f0c815f1e41ca1e126796f16b855.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/187f5b7366b2d6d8f4cf57186d033c86272c5544/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c45216e9c267416bf8baa270fdda4af394d6ee20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2aa929c737b9c3d4e403c588bfad2603813b5be3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d78b830f99982c074106d1b446d90e65b864fa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/cbf5150915bf62689c8ddb3ca6474ac8ccccf17e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_faf54d0fb8b6f0c815f1e41ca1e126796f16b855/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/187f5b7366b2d6d8f4cf57186d033c86272c5544/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/julia/Desktop/Portfolio-App-Android-master/app/build/intermediates/pre-dexed/debug/classes_c45216e9c267416bf8baa270fdda4af394d6ee20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4f9f225048ce90a7e11befd02b9ec0392a693733/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/julia/Desktop/emjefjgekjsghr/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3583f475d1b1d0380f6b7d1a86887724223ba285/classes.dex" />
+    </item>
+
+</items>
